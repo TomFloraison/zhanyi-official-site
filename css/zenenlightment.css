@@ -121,8 +121,15 @@
 	margin-left: 220px;
 }
 
+.text a {
+	width: 100%;
+	margin: 0px;
+	text-align: left;
+}
+
 .text h4 {
 	width: 100%;
+	margin: 0px;
 }
 
 /*.text p span {
