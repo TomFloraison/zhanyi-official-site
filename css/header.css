@@ -1,0 +1,75 @@
+/*html, body, div, ul, ol, li, dl, dt, dd, h1, h2, h3, h4, h5, h6, pre, form, p, blockquote, fieldset, input {
+    padding: 0;
+    margin: 0;
+}*/
+
+
+
+/*hearder @ zyq*/
+
+.header-topbg {
+    width: 100%;
+    min-width: 1000px;
+    background: url(../img/topbg.jpg) repeat-x;
+}
+.header-top-container {
+    width: 1000px;
+    margin: 0 auto;
+}
+.header-topword {
+    height: 28px;
+    line-height: 28px;
+    color: #f9f9f9;
+}
+.header-fl {
+    float: left;
+    display: inline;
+}
+.header-fr {
+    float: right;
+    display: inline;
+    margin-left: 6px;
+}
+
+a.header-lan-active {
+    color:#a2384e  ;
+    font-weight: bold;
+}
+a.header-lan-nonactive {
+    text-decoration: none;
+    color: white;
+}
+.header-topnav-container {
+    height: 96px;
+    font: 16px/1 "微软雅黑", Tahoma, Helvetica, Arial, "\5b8b\4f53", sans-serif;
+}
+
+
+    
+.header-logo {
+    width: 180px;
+    height: 55px;
+    float: left;
+    margin-top: 10px;
+    margin-right: 80px;
+}
+.header-topnav {
+    float: right;
+}
+.header-topnav-item {
+    width: 90px;
+    height: 70px;
+    text-align: center;
+    float: left;
+    margin-left: 17px;
+}
+.header-topnav-item a {
+    color: #231815;
+    font-size: 16px;
+    line-height: 90px;
+}
+
+
+.header-topnav-item:hover, .header-topnav-active {
+    border-bottom: 2px solid #a2384e;
+}

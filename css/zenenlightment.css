@@ -1,0 +1,193 @@
+.ze_bg {
+	position: relative;
+}
+
+.ze_bg_pic {
+	width: 100%; 
+	height: 430px;
+}
+
+.ze_imgline {
+	position: absolute;
+	bottom: 0px;
+	height: 55px;
+	width: 100%;
+	background: url("../img/imgline.png") repeat-x scroll left bottom transparent;
+	text-align: center;
+}
+
+.ze_content {
+	width: 1000px;
+	margin: 20px auto 0 auto; 
+	height: 958px;
+}
+
+.ze_content_nav {
+	background-color: #F8F7F5;
+}
+
+.ze_content_nav_focus {
+	background-color: #A2384E;
+}
+
+.ze_content_nav_nxt {
+	margin-top: 1px;
+}
+
+.ze_content ul {
+	padding-left: 0;
+}
+
+.ze_content ul>li {
+	width: 170px;
+	height: 50px;
+	list-style-type: none;
+}
+
+.ze_content a {
+	width: 170px;
+	line-height: 50px;
+	display: block;
+	font-size: 16px;
+	text-align: center;
+	vertical-align: middle;
+}
+
+.ze_content_nav_focus a{
+	color: white;
+}
+
+.ze_nav {
+	float: left;
+}
+
+.content {
+	float: left;
+	margin-left: 20px;
+	width: 810px;
+	height: 100px;
+}
+
+.ze_content_header {
+	height: 50px;
+	width: 100%;
+}
+
+.ze_content_header h3 {
+	margin-top: 13px;
+	margin-bottom: 0;
+	float: left;
+}
+
+.ze_content_header hr {
+	margin-top: 0px;
+}
+
+.ze_content_header img {
+	width: 50px;
+	height: 50px;
+}
+
+.ze_content_header .location {
+	margin-top: 15px;
+	float: right;
+}
+
+.ze_content_header .location img{
+	width: 20px;
+	height: 30px;
+}
+
+.ze_content_preview {
+	width: 100%;
+	height: 100%;
+	margin-top: 20px;
+	margin-bottom: 6px;
+}
+
+.text .view {
+	background-color: #8A061E;
+	width: 104px;
+	height: 36px;
+}
+
+.ze_content_preview .preview_pic {
+	width: 186px;
+	height: 112px;
+	float: left;
+}
+
+.ze_content_preview .text {
+	margin-left: 220px;
+}
+
+.text h4 {
+	width: 100%;
+}
+
+/*.text p span {
+	max-width: 400px;
+	text-overflow: ellipsis;
+}*/
+
+.ze_content_preview .preview_title {
+
+}
+
+.ze_content_group ul>li {
+	width: 810px;
+	height: 112px;
+}
+
+.text button {
+	border: 0;
+	float: right;
+	color: white;
+	font-size: 16px;
+	line-height: 36px;
+}
+
+.ze_pages {
+	height: 25px;
+	width: 100%;
+	margin-top: 40px;
+}
+
+.ze_pages button {
+	border: 1px;
+	color: grey;
+	font-size: 16px;
+	line-height: 25px;
+}
+
+.ze_detail_header {
+	margin-top: 25px;
+}
+
+.ze_detail_header h3 {
+	text-align: center;
+}
+
+.ze_detail_catagory {
+	text-align: right;
+	margin-top: 18px;
+}
+
+.ze_detail_header hr{
+	margin-top: 10px;
+}
+
+.ze_detail_paragraph {
+	font-family: NSimSun;
+	font-size: 14px;
+	line-height: 2;
+}
+
+div {
+	padding: 0;
+	margin: 0;
+}
+
+html{
+	font-family: "微软雅黑";
+}

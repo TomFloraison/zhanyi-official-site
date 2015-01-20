@@ -1,0 +1,47 @@
+
+/*footer @ zyq*/
+
+.footer-footbg {
+    width: 100%;
+    min-width: 1000px;
+    background: url(../img/footbg.jpg) repeat-x bottom;
+    position: absolute;
+}
+.footer-container {
+    height: 135px;
+    width: 1000px;
+    margin: 0 auto;
+}
+.footer-footnav {
+    height: 45px;
+}
+.footer-footnav a {
+    height: 45px;
+    line-height: 45px;
+    color: #e2e2e2;
+    display: block;
+    float: left;
+    margin-right: 32px;
+}
+
+.footer-go-top {
+    width: 41px;
+    height: 35px;
+    display: block;
+    float:right;
+    background: url(../img/gotop.png) no-repeat;
+}
+.footer-footword {
+    padding-top: 12px;
+}
+.footer-logo {
+    float: left;
+    margin-right: 15px;
+}
+.footer-info {
+    float: right;
+    padding-top: 12px;
+    line-height: 20px;
+    color: #ffffff;
+}
+
